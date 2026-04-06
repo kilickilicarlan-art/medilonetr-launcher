@@ -1,23 +1,16 @@
 [
   {
-    "id": 1775502641045,
-    "type": "info",
-    "title": "test",
-    "body": "test",
-    "date": "2026-04-06"
-  },
-  {
     "id": 2,
     "type": "info",
-    "title": "Sunucuya NasÄ±l Girilir?",
-    "body": "Launcher'Ä± aÃ§ â KullanÄ±cÄ± adÄ±nÄ± gir â OYNA butonuna bas. Hepsi bu kadar! Modlar otomatik indirilir.",
+    "title": "Sunucuya NasÃÂ±l Girilir?",
+    "body": "Launcher'ÃÂ± aÃÂ§ Ã¢ÂÂ KullanÃÂ±cÃÂ± adÃÂ±nÃÂ± gir Ã¢ÂÂ OYNA butonuna bas. Hepsi bu kadar! Modlar otomatik indirilir.",
     "date": "2026-04-04"
   },
   {
     "id": 3,
     "type": "event",
-    "title": "Discord Sunucumuza KatÄ±l!",
-    "body": "SorularÄ±nÄ± sormak, etkinliklere katÄ±lmak ve toplulukla tanÄ±Åmak iÃ§in Discord'a gel.",
+    "title": "Discord Sunucumuza KatÃÂ±l!",
+    "body": "SorularÃÂ±nÃÂ± sormak, etkinliklere katÃÂ±lmak ve toplulukla tanÃÂ±ÃÂmak iÃÂ§in Discord'a gel.",
     "date": "2026-04-04"
   }
 ]
