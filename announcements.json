@@ -1,23 +1,16 @@
 [
   {
-    "id": 1,
-    "type": "update",
-    "title": "MediloneTR Launcher v1.0.0 Yayında!",
-    "body": "Artık tek tıkla sunucumuza bağlanabilirsin. Tüm modlar otomatik yüklenir, hiçbir şey yapman gerekmiyor.",
-    "date": "2026-04-04"
-  },
-  {
     "id": 2,
     "type": "info",
-    "title": "Sunucuya Nasıl Girilir?",
-    "body": "Launcher'ı aç → Kullanıcı adını gir → OYNA butonuna bas. Hepsi bu kadar! Modlar otomatik indirilir.",
+    "title": "Sunucuya NasÄ±l Girilir?",
+    "body": "Launcher'Ä± aÃ§ â KullanÄ±cÄ± adÄ±nÄ± gir â OYNA butonuna bas. Hepsi bu kadar! Modlar otomatik indirilir.",
     "date": "2026-04-04"
   },
   {
     "id": 3,
     "type": "event",
-    "title": "Discord Sunucumuza Katıl!",
-    "body": "Sorularını sormak, etkinliklere katılmak ve toplulukla tanışmak için Discord'a gel.",
+    "title": "Discord Sunucumuza KatÄ±l!",
+    "body": "SorularÄ±nÄ± sormak, etkinliklere katÄ±lmak ve toplulukla tanÄ±Åmak iÃ§in Discord'a gel.",
     "date": "2026-04-04"
   }
 ]
