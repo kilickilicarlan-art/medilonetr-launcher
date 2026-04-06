@@ -1,12 +1,5 @@
 [
   {
-    "id": 2,
-    "type": "info",
-    "title": "Sunucuya NasÃÂ±l Girilir?",
-    "body": "Launcher'ÃÂ± aÃÂ§ Ã¢ÂÂ KullanÃÂ±cÃÂ± adÃÂ±nÃÂ± gir Ã¢ÂÂ OYNA butonuna bas. Hepsi bu kadar! Modlar otomatik indirilir.",
-    "date": "2026-04-04"
-  },
-  {
     "id": 3,
     "type": "event",
     "title": "Discord Sunucumuza KatÃÂ±l!",
